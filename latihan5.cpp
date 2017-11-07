@@ -9,4 +9,6 @@ int main(){
     cin >> height;
     cout << "Please enter your weight in kg : ";
     cin >> weight;
+    
+     if (weight<height/2.5)
 }
