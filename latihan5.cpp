@@ -18,4 +18,6 @@ int main(){
     
 	 else if (height/2.3<weight)
 	  cout << "Result : Overweight" << endl;
+	 
+	 return 0;
 }
