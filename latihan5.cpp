@@ -7,4 +7,6 @@ int main(){
     
     cout << "Please enter your height in cm : ";
     cin >> height;
+    cout << "Please enter your weight in kg : ";
+    cin >> weight;
 }
