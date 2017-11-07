@@ -11,4 +11,5 @@ int main(){
     cin >> weight;
     
      if (weight<height/2.5)
+      cout << "Result : Underweight" << endl;
 }
