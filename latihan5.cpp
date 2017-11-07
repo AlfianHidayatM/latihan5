@@ -12,4 +12,6 @@ int main(){
     
      if (weight<height/2.5)
       cout << "Result : Underweight" << endl;
+      
+     else if (height/2.5 <= weight <= height/2.3)
 }
